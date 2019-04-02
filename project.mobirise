@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-02_1725",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -439,7 +439,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
